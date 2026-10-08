@@ -25,25 +25,6 @@ Built for speed and reliability, it provides intuitive workflows for validating 
 - Testing: Vitest
 - Package Manager / Runtime:** Bun & npm
 
----
-## Workflow
-
-[Document Upload] 
-       │
-       ▼
-[Client-Side Pre-check] ────► Validates file type, size, and format headers
-       │
-       ▼
-[Cryptographic Hashing] ────► Computes local SHA-256 hash to ensure zero tampering
-       │
-       ▼
-[Tamper & Integrity Scan] ──► Checks structure, metadata inconsistencies, and signatures
-       │
-       ▼
-[Privacy Masking / Parser] ─► Sanitizes and processes sensitive document fields
-       │
-       ▼
-[Verification Report] ──────► Produces authenticity score, flags, and downloadable audit log
 
 ---
 
