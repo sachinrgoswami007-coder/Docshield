@@ -1,4 +1,4 @@
-# Docshield
+# Docshield.
 
 > Intelligent, privacy-focused document verification, security, and analysis platform.
 
